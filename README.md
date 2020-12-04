@@ -1,1 +1,2 @@
-# Chilli-paneer--delicious
+# Chilli-Paneer
+Aim: To make Chilli Paneer
